@@ -1,0 +1,2 @@
+[Wed, 25 May 2022 08:59:49 +0700] [tourdao4mua.io] [127.0.0.1] [Warning(2): mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()] [FILE: /vendor/phpmailer/phpmailer/src/PHPMailer.php] [LINE: 877]
+[Wed, 25 May 2022 08:59:49 +0700] [tourdao4mua.io] [127.0.0.1] [User Warning(512): Không dùng được các hàm gửi thư.] [FILE: /includes/functions.php] [LINE: 1532]

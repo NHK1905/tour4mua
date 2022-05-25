@@ -1,0 +1,341 @@
+<script>
+    const grphometext = document.querySelectorAll(".news-crop-hometext");
+    grphometext.forEach(grphometext => {
+        let text = grphometext.textContent;
+        if (text.length > 125) {
+            grphometext.textContent = `${text.slice(0, 125)}...`;
+        }
+    });
+</script>
+<div class="row large-columns-1 medium-columns- small-columns-1">
+        <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=San-pham/nukeviet-4-3-co-gi-moi-15.html" title="NukeViet 4.3 có gì mới?" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="NukeViet 4.3 có gì mới?" src="/assets/news/chuc-mung-nukeviet-thong-tu-20-bo-tttt.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">NukeViet 4.3 có gì mới?</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">NukeViet 4.3 là phiên bản nâng cấp của phiên bản NukeViet 4.2 tập trung vào việc fix các vấn đề bất cập còn tồn tại, tối ưu trải nghiệm của người dùng.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+        <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=San-pham/nukeviet-4-2-co-gi-moi-14.html" title="NukeViet 4.2 có gì mới?" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="NukeViet 4.2 có gì mới?" src="/assets/news/chuc-mung-nukeviet-thong-tu-20-bo-tttt.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">NukeViet 4.2 có gì mới?</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">NukeViet 4.2 là phiên bản nâng cấp của phiên bản NukeViet 4.0 tập trung vào việc fix các vấn đề bất cập còn tồn tại của NukeViet 4.0, Thêm các tính năng mới để tăng cường bảo mật của hệ thống cũng như tối ưu trải nghiệm của người dùng.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=San-pham/nukeviet-4-0-co-gi-moi-13.html" title="NukeViet 4.0 có gì mới?" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="NukeViet 4.0 có gì mới?" src="/assets/news/chuc-mung-nukeviet-thong-tu-20-bo-tttt.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">NukeViet 4.0 có gì mới?</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">NukeViet 4 là phiên bản NukeViet được cộng đồng đánh giá cao, hứa hẹn nhiều điểm vượt trội về công nghệ đến thời điểm hiện tại. NukeViet 4 thay đổi gần như hoàn toàn từ nhân hệ thống đến chức năng, giao diện người dùng. Vậy, có gì mới trong phiên bản này?</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Ban-tin-noi-bo/hay-tro-thanh-nha-cung-cap-dich-vu-cua-nukeviet-2.html" title="Hãy trở thành nhà cung cấp dịch vụ của NukeViet&#33;" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Hãy trở thành nhà cung cấp dịch vụ của NukeViet&#33;" src="/assets/news/hoptac.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Hãy trở thành nhà cung cấp dịch vụ của NukeViet&#33;</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Nếu bạn là công ty hosting, là công ty thiết kế web có sử dụng mã nguồn NukeViet, là cơ sở đào tạo NukeViet hay là công ty bất kỳ có kinh doanh dịch vụ liên quan đến NukeViet... hãy cho chúng tôi biết thông tin liên hệ của bạn để NukeViet hỗ trợ bạn trong công việc kinh doanh nhé!</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tuyen-dung/Tuyen-dung-lap-trinh-vien-PHP-3.html" title="Tuyển dụng lập trình viên PHP phát triển NukeViet" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Tuyển dụng" src="/assets/news/tuyendung-kythuat.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Tuyển dụng lập trình viên PHP phát triển NukeViet</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Bạn đam mê nguồn mở? Bạn đang cần tìm một công việc phù hợp với thế mạnh của bạn về PHP và MySQL? Hãy gia nhập VINADES.,JSC để xây dựng mã nguồn mở hàng đầu cho Việt Nam.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/ho-tro-tap-huan-va-trien-khai-nukeviet-cho-cac-phong-so-gd-dt-12.html" title="Hỗ trợ tập huấn và triển khai NukeViet cho các Phòng, Sở GD&amp;ĐT" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Tập huấn triển khai NukeViet tại Phòng Giáo dục và Đào tạo Hà Đông - Hà Nội" src="/assets/news/tap-huan-pgd-ha-dong-2015.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Hỗ trợ tập huấn và triển khai NukeViet cho các Phòng, Sở GD&amp;ĐT</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Trên cơ sở Hướng dẫn thực hiện nhiệm vụ CNTT năm học 2015 - 2016 của Bộ Giáo dục và Đào tạo, Công ty cổ phần phát triển nguồn mở Việt Nam và các doanh nghiệp phát triển NukeViet trong cộng đồng NukeViet đang tích cực công tác hỗ trợ cho các phòng GD&ĐT, Sở GD&ĐT triển khai 2 nội dung chính: Hỗ trợ công tác đào tạo tập huấn hướng dẫn sử dụng NukeViet và Hỗ trợ triển khai NukeViet cho các trường, Phòng và Sở GD&ĐT</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/nukeviet-duoc-bo-gd-dt-dua-vao-huong-dan-thuc-hien-nhiem-vu-cntt-nam-hoc-2015-2016-11.html" title="NukeViet được Bộ GD&amp;ĐT đưa vào Hướng dẫn thực hiện nhiệm vụ CNTT năm học 2015 - 2016" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="NukeViet được Bộ GD&amp;ĐT đưa vào Hướng dẫn thực hiện nhiệm vụ CNTT năm học 2015 - 2016" src="/assets/news/nukeviet-cms.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">NukeViet được Bộ GD&amp;ĐT đưa vào Hướng dẫn thực hiện nhiệm vụ CNTT năm học 2015 - 2016</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Trong Hướng dẫn thực hiện nhiệm vụ CNTT năm học 2015 - 2016 của Bộ Giáo dục và Đào tạo, NukeViet được đưa vào các hạng mục: Tập huấn sử dụng phần mềm nguồn mở cho giáo viên và cán bộ quản lý giáo dục; Khai thác, sử dụng và dạy học; đặc biệt phần &quot;khuyến cáo khi sử dụng các hệ thống CNTT&quot; có chỉ rõ &quot;Không nên làm website mã nguồn đóng&quot; và &quot;Nên làm NukeViet: phần mềm nguồn mở&quot;.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tuyen-dung/hoc-viec-tai-cong-ty-vinades-10.html" title="Học việc tại công ty VINADES" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Học việc tại công ty VINADES" src="/assets/news/hoc-viec-tai-cong-ty-vinades.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Học việc tại công ty VINADES</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Công ty cổ phần phát triển nguồn mở Việt Nam tạo cơ hội việc làm và học việc miễn phí cho những ứng viên có đam mê thiết kế web, lập trình PHP… được học tập và rèn luyện cùng đội ngũ lập trình viên phát triển NukeViet.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/chuong-trinh-thuc-tap-sinh-tai-cong-ty-vinades-9.html" title="Chương trình thực tập sinh tại công ty VINADES" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Chương trình thực tập sinh tại công ty VINADES" src="/assets/news/thuc-tap-sinh.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Chương trình thực tập sinh tại công ty VINADES</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Cơ hội để những sinh viên năng động được học tập, trải nghiệm, thử thách sớm với những tình huống thực tế, được làm việc cùng các chuyên gia có nhiều kinh nghiệm của công ty VINADES.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tuyen-dung/Tuyen-dung-lap-trinh-vien-front-end-HTML-CSS-JS-5.html" title="Tuyển dụng lập trình viên front-end (HTML/CSS/JS) phát triển NukeViet" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Tuyển dụng" src="/assets/news/tuyendung-kythuat.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Tuyển dụng lập trình viên front-end (HTML/CSS/JS) phát triển NukeViet</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Bạn đam mê nguồn mở? Bạn đang cần tìm một công việc phù hợp với thế mạnh của bạn về front-end (HTML/CSS/JS)? Hãy gia nhập VINADES.,JSC để xây dựng mã nguồn mở hàng đầu cho Việt Nam.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tuyen-dung/Tuyen-dung-chuyen-vien-do-hoa-4.html" title="Tuyển dụng chuyên viên đồ hoạ phát triển NukeViet" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Tuyển dụng" src="/assets/news/tuyendung-kythuat.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Tuyển dụng chuyên viên đồ hoạ phát triển NukeViet</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Bạn đam mê nguồn mở? Bạn là chuyên gia đồ họa? Chúng tôi sẽ giúp bạn hiện thực hóa ước mơ của mình với một mức lương đảm bảo. Hãy gia nhập VINADES.,JSC để xây dựng mã nguồn mở hàng đầu cho Việt Nam.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tuyen-dung/cong-ty-vinades-tuyen-dung-nhan-vien-kinh-doanh-8.html" title="Công ty VINADES tuyển dụng nhân viên kinh doanh" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Công ty VINADES tuyển dụng nhân viên kinh doanh" src="/assets/news/tuyen-dung-nvkd.png" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Công ty VINADES tuyển dụng nhân viên kinh doanh</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Công ty cổ phần phát triển nguồn mở Việt Nam là đơn vị chủ quản của phần mềm mã nguồn mở NukeViet - một mã nguồn được tin dùng trong cơ quan nhà nước, đặc biệt là ngành giáo dục. Chúng tôi cần tuyển 05 nhân viên kinh doanh cho lĩnh vực này.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/nukeviet-duoc-uu-tien-mua-sam-su-dung-trong-co-quan-to-chuc-nha-nuoc-7.html" title="NukeViet được ưu tiên mua sắm, sử dụng trong cơ quan, tổ chức nhà nước" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="NukeViet được ưu tiên mua sắm, sử dụng trong cơ quan, tổ chức nhà nước" src="/assets/news/chuc-mung-nukeviet-thong-tu-20-bo-tttt.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">NukeViet được ưu tiên mua sắm, sử dụng trong cơ quan, tổ chức nhà nước</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Ngày 5/12/2014, Bộ trưởng Bộ TT&TT Nguyễn Bắc Son đã ký ban hành Thông tư 20/2014/TT-BTTTT (Thông tư 20) quy định về các sản phẩm phần mềm nguồn mở (PMNM) được ưu tiên mua sắm, sử dụng trong cơ quan, tổ chức nhà nước. NukeViet (phiên bản 3.4.02 trở lên) là phần mềm được nằm trong danh sách này.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/Ma-nguon-mo-NukeViet-gianh-giai-ba-Nhan-tai-dat-Viet-2011-6.html" title="Mã nguồn mở NukeViet giành giải ba Nhân tài đất Việt 2011" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Mã nguồn mở NukeViet giành giải ba Nhân tài đất Việt 2011" src="/assets/news/nukeviet-nhantaidatviet2011.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Mã nguồn mở NukeViet giành giải ba Nhân tài đất Việt 2011</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Không có giải nhất và giải nhì, sản phẩm Mã nguồn mở NukeViet của VINADES.,JSC là một trong ba sản phẩm đã đoạt giải ba Nhân tài đất Việt 2011 - Lĩnh vực Công nghệ thông tin (Sản phẩm đã ứng dụng rộng rãi).</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+    <div class="col post-item">
+        <div class="col-inner">
+            <a href="/index.php?language=vi&amp;nv=news&amp;op=Tin-tuc/Ra-mat-cong-ty-ma-nguon-mo-dau-tien-tai-Viet-Nam-1.html" title="Ra mắt công ty mã nguồn mở đầu tiên tại Việt Nam" class="plain">
+                <div class="box box-vertical box-text-bottom box-blog-post has-hover">
+                    <div class="box-image" style="width:40%;">
+                        <div class="image-cover" style="padding-top:56%;">
+                                                        <img width="300" height="188" alt="Thành lập VINADES.,JSC" src="/assets/news/nangly.jpg" class="attachment-medium size-medium wp-post-image">
+                            
+                        </div>
+                    </div>
+                    <div class="box-text text-left">
+                        <div class="box-text-inner blog-post-inner">
+                            <h5 class="post-title is-large ">Ra mắt công ty mã nguồn mở đầu tiên tại Việt Nam</h5>
+                            <div class="is-divider"></div>
+                            <p class="from_the_blog_excerpt news-crop-hometext">Mã nguồn mở NukeViet vốn đã quá quen thuộc với cộng đồng CNTT Việt Nam trong mấy năm qua. Tuy chưa hoạt động chính thức, nhưng chỉ trong khoảng 5 năm gần đây, mã nguồn mở NukeViet đã được dùng phổ biến ở Việt Nam, áp dụng ở hầu hết các lĩnh vực, từ tin tức đến thương mại điện tử, từ các website cá nhân cho tới những hệ thống website doanh nghiệp.</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    
+</div>

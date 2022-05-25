@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms>
+	<name><![CDATA[NukeViet CMS 4.5.01]]></name>
+	<version><![CDATA[4.5.01]]></version>
+	<date><![CDATA[Fri, 05 Nov 2021 17:00:00 GMT]]></date>
+	<message><![CDATA[NukeViet 4.5.01 là phiên bản nâng cấp của phiên bản NukeViet 4.5.00 tập trung vào việc fix các vấn đề còn tồn tại ở phiên bản trước và một số tùy chỉnh nhỏ ở hệ thống.]]></message>
+	<link><![CDATA[https&#x3A;&#x002F;&#x002F;nukeviet.vn&#x002F;]]></link>
+	<updateable><![CDATA[4.5.01]]></updateable>
+	<updatepackage><![CDATA[37]]></updatepackage>
+</cms>
